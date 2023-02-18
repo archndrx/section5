@@ -1,4 +1,5 @@
 void main(){
-  print('HelloWorld');
+  print('HelloWorld Baru');
   print('ini percobaan stash');
+  int a = 10;
 }
