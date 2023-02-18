@@ -3,4 +3,6 @@ void main(){
   print('ini percobaan stash');
   int a = 10;
   var name = 'budi';
+
+  print('ini featureA')
 }
